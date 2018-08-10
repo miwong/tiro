@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec -a TIROStaticAnalysis bash -c "./gradlew run -q -PappArgs=\"$*\""

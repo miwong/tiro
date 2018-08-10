@@ -1,0 +1,3 @@
+[submodule "static/android-platforms"]
+	path = static/android-platforms
+	url = https://github.com/marianadangelo/android-platforms
